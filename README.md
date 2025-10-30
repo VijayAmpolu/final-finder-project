@@ -5,7 +5,7 @@ A responsive and interactive React-based Book Finder App that allows users to se
 
 1. **Download or Clone the Repository**
     Extract the downloaded zip folder
-    git clone <https://github.com/VijayAmpolu/final-finder-project/edit/master/>
+    git clone <https://github.com/VijayAmpolu/final-finder-project>
 
 
 3. **Open the project folder and Install Dependencies**
